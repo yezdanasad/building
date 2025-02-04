@@ -1,4 +1,5 @@
-#bin/bash
+#! /bin/bash
+# takes a number n, and returns the nth fibonacci number
 fiboNumbers=(1 1)
 n=$1
 i=1

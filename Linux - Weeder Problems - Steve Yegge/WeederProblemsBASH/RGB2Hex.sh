@@ -1,4 +1,5 @@
-#bin/bash
+#! /bin/bash
+# takes an array of 3  8 bit numbers corresponding to RGB values and returns a 6 character hex string
 # run with ./RGB2Hex num1 num2 num3
 
 RGB=("$@") # an array of length 3 where each number is (0-255) (256 total = 2^8)

@@ -1,4 +1,5 @@
-#bin/bash
+#! /bin/bash
+# read lines from a txt file and sums the numbers in each line, then returns the sum
 sum=0
 while IFS= read -r line; do 
     echo "Processing: $line"
