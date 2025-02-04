@@ -1,0 +1,1 @@
+A folder that holds solutions to Steve Yegges Weeder Problems (refer to the picture (.png) for full list of problems), solved in BASH.
